@@ -1,0 +1,14 @@
+.header__lang-link {
+    font-size: 24px;
+    line-height: 28px;
+    display: block;
+    cursor: pointer;
+    transition: 0.3s;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
