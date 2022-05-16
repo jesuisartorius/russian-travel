@@ -1,0 +1,8 @@
+.place {
+    display: grid;
+    grid-template-columns: 460px 1fr;
+    gap: 48px 40px;
+    grid-template-areas:
+    "title url"
+    "image description";
+}

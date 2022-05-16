@@ -1,0 +1,5 @@
+.place__title {
+    grid-area: title;
+    align-self: end;
+    margin: 0;
+}
