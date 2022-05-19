@@ -4,3 +4,15 @@
     object-fit: cover;
     display: block;
 }
+
+@media screen and (max-width: 1140px){
+    .lead__image {
+        margin: 56px 0 8px;
+    }
+}
+
+@media screen and (max-width: 640px){
+    .lead__image {
+        margin: 40px 0 8px;
+    }
+}
